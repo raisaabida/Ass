@@ -167,10 +167,12 @@ h2 {
   color: #333;
 }
 
+
 .card .price {
   font-weight: bold;
   margin-bottom: 10px;
 }
+
 
 .cart-btn {
   background-color: orange;
@@ -184,6 +186,7 @@ h2 {
 .cart-btn:hover {
   background-color: darkorange;
 }
+
 
 @media (max-width: 768px) {
   .nav-links {
