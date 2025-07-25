@@ -28,6 +28,7 @@
   object-fit: cover;
 }
 
+
 .hero{
     display: flex;
   align-items: center;
@@ -39,6 +40,7 @@
   margin: 0 auto;
   max-width: 1800px;
 }
+
 
  .hero-text, .hero-image{
     display: inline-block;
